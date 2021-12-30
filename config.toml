@@ -44,6 +44,11 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
+    name = "WERSJA TESTOWA"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "products"
     name = "Dołącz"
     url = "/products/"

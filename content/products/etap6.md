@@ -7,7 +7,7 @@ weight: 1
 description:
 ---
 
-> Wyślij tekst porozumienia i regulamin  
+> Wyślij tekst porozumienia, RODO i regulamin  
 > Oraz numer telefonu i adres e-mail pomocny przy późniejszym kontakcie.  
 > na adres:  
 > XXXXXX

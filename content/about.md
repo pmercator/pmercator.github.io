@@ -12,7 +12,9 @@ Inicjatywa powołania Porozumienia jest konsekwencją działań podjętych przez
 
 [Porozumienie Elektrim](http://porozumienieelektrim.pl/) stanowił zrodło inspiracji podczas tworzenia tej inicjatywy.
 
+?
 Jesteśmy grupą akcjonariuszy Spółki Akcyjnej Mercator S.A. którzy pragną mieć wpływ na zmiany zachodzące w spółce. Nasze działania mają na celu zebranie minimum 5% akcji spółki, a tym samym zabezpieczenia się przed wykupem akcji przez akcjonariusza większościowego po potencjalnie nieadekwatnych cenach. W przypadku osiągniecia progu 10% akcji spółki bedzie można także zabezpieczyć się przed przymusowym ściągnieciem z rynku regulowanego. Dodatkowo posiadanie tak istonego pakietu akcji pozwoli na bardziej efektywną komunikacje z zarządem spółki.
+?
 
 Ze względu na barierę informacyjną, na jaką napotykają mniejszościowi akcjonariusze spółki, grupa akcjonariuszy postanowiła stworzyć własną stronę internetową Porozumienia. Za pomocą wspomnianej witryny będziemy udostępniać ważne informacje dotyczące spółki, a także donosić o wszelkich działaniach podjętych przez Porozumienie. Pragniemy w ten sposób zwiększyć dostęp do informacji dla mniejszościowych akcjonariuszy.
 
