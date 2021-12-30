@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://pmercator.github.io/"
 title = "PMercator"
 author = "pmercator"
 languageCode = "pl"
@@ -32,12 +32,11 @@ enableRobotsTXT = true
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Porozumienie Mercator"
+    meta_og_title = "Porozumienie Mercator"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_url = "https://pmercator.github.io/"
+    meta_og_description = "Porozumienie mercator"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"

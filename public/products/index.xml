@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Procedura Przystąpienia - Etapy on PMercator</title>
-    <link>https://example.com/products/</link>
+    <link>https://pmercator.github.io/products/</link>
     <description>Recent content in Procedura Przystąpienia - Etapy on PMercator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pmercator.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etap 1: Pełnomocnictwo</title>
-      <link>https://example.com/products/etap1/</link>
+      <link>https://pmercator.github.io/products/etap1/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/products/etap1/</guid>
+      <guid>https://pmercator.github.io/products/etap1/</guid>
       <description>Pobierz i wydrukuj Wydrukuj jeden egzemplarz Pełnomocnitwa i odeślij do Pana/Pani Mecenasa XXXXXXXX wraz z oryginałem świadectwa depozytowego z biura maklerskiego
  Pelnomocnictwo dla XXXX   </description>
     </item>
     
     <item>
       <title>Etap 2: Świadectwo depozytowe</title>
-      <link>https://example.com/products/etap2/</link>
+      <link>https://pmercator.github.io/products/etap2/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/products/etap2/</guid>
+      <guid>https://pmercator.github.io/products/etap2/</guid>
       <description>Pobierz świadectwo depozytowe z biura maklerskiego Należy pobrać oryginał świadectwa. Zaświadczenie wydaje Biuro Maklerskie na wyraźne życzenia akcjonariusza. Koszt wydania zaświadczenia to około 30 zł.
  Pełnomocnictwo i świadectwo depozytowe należy wysłać na adres:
 Kancelaria XXXX
@@ -31,30 +31,30 @@ Kancelaria XXXX
     
     <item>
       <title>Etap 3: Regulamin</title>
-      <link>https://example.com/products/etap3/</link>
+      <link>https://pmercator.github.io/products/etap3/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/products/etap3/</guid>
+      <guid>https://pmercator.github.io/products/etap3/</guid>
       <description>Pobierz i wydrukuj Regulamin Wydrukuj jeden egzemplarz Regulaminu.
  Regulamin   </description>
     </item>
     
     <item>
       <title>Etap 4: Tekst porozumienia</title>
-      <link>https://example.com/products/etap4/</link>
+      <link>https://pmercator.github.io/products/etap4/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/products/etap4/</guid>
+      <guid>https://pmercator.github.io/products/etap4/</guid>
       <description>Pobierz i wydrukuj tekst Porozumienia Wydrukuj 2 egzemplarze Porozumienia:
  1 egzemplarz dla członka (pozostaw sobie), 1 egzemplarz dla przewodniczącego Porozumienia. Objaśnienie: Wydrukuj dwie strony porozumienia. Na pierwszej stronie wpisz swoją miejscowość oraz datę. W prawym rogu w dolnej części pierwszej strony złóż swój podpis. Na drugiej stronie Porozumienia wpisz ilość akcji, imię i nazwisko, PESEL oraz złóż czytelny podpis. W przypadku, gdy rachunek jest wspólny, Porozumienie podpisuje również współmałżonek. Złóżcie czytelny podpisy, wyrażając zgodę na przetwarzanie danych osobowych dla potrzeb niezbędnych do realizacji celów Porozumienia.</description>
     </item>
     
     <item>
       <title>Etap 5: Dokumenty wysyłane do Przewodniczacego</title>
-      <link>https://example.com/products/etap5/</link>
+      <link>https://pmercator.github.io/products/etap5/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/products/etap5/</guid>
+      <guid>https://pmercator.github.io/products/etap5/</guid>
       <description> Wyślij tekst porozumienia i regulamin
 Oraz numer telefonu i adres e-mail pomocny przy późniejszym kontakcie.
 na adres:
