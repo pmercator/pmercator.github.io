@@ -1,5 +1,5 @@
 ---
-title: "Etap 5: Dokumenty wysyłane do Przewodniczacego"
+title: "Etap 5: RODO"
 date: "2019-03-11"
 draft: false
 featured: true
@@ -7,7 +7,6 @@ weight: 1
 description:
 ---
 
-> Wyślij tekst porozumienia i regulamin  
-> Oraz numer telefonu i adres e-mail pomocny przy późniejszym kontakcie.  
-> na adres:  
-> XXXXXX
+Pobierz i wydrukuj tekst zgody RODO
+
+{{< button_download "http://www.google.com" "RODO">}}
