@@ -1,0 +1,17 @@
+[{
+        "title": "Dołącz do porozumienia.",
+        "description": "Jako akcjonariusz spółki Mercator przyłącz się do porozumienia.",
+        "icon": "fas fa-handshake",
+        "link": "/products"
+    },
+    {
+        "title": "Liczba członków",
+        "description": "NULL",
+        "icon": "icon-person"
+    },
+    {
+        "title": "Udział akcji",
+        "description": "NULL",
+        "icon": "fas fa-chart-pie"
+    }
+]
