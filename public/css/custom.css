@@ -10,3 +10,10 @@
 .background-white {
     background-color: rgb(255, 255, 255) !important;
 }
+
+body {
+    background-image: url('../img/main_photo.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

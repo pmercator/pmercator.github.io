@@ -50,12 +50,22 @@ Kancelaria XXXX
     </item>
     
     <item>
-      <title>Etap 5: Dokumenty wysyłane do Przewodniczacego</title>
+      <title>Etap 5: RODO</title>
       <link>https://pmercator.github.io/products/etap5/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pmercator.github.io/products/etap5/</guid>
-      <description> Wyślij tekst porozumienia i regulamin
+      <description>Pobierz i wydrukuj tekst zgody RODO
+ RODO   </description>
+    </item>
+    
+    <item>
+      <title>Etap 6: Dokumenty wysyłane do Przewodniczacego</title>
+      <link>https://pmercator.github.io/products/etap6/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pmercator.github.io/products/etap6/</guid>
+      <description> Wyślij tekst porozumienia, RODO i regulamin
 Oraz numer telefonu i adres e-mail pomocny przy późniejszym kontakcie.
 na adres:
 XXXXXX
