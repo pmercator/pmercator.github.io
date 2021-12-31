@@ -7,6 +7,6 @@ weight: 1
 description:
 ---
 
-Pobierz i wydrukuj tekst zgody RODO
+> Pobierz i wydrukuj tekst zgody RODO
 
-{{< button_download "http://www.google.com" "RODO">}}
+> {{< button_download "http://www.google.com" "RODO">}}

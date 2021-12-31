@@ -7,7 +7,7 @@ weight: 1
 description: 
 ---
 
-Pobierz i wydrukuj Regulamin
-Wydrukuj jeden egzemplarz Regulaminu.
+> Pobierz i wydrukuj Regulamin
+> Wydrukuj jeden egzemplarz Regulaminu.
 
-{{< button_download "http://www.google.com" "Regulamin">}}
+> {{< button_download "http://www.google.com" "Regulamin">}}

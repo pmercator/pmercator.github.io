@@ -7,8 +7,8 @@ weight: 1
 description: 
 ---
 
-Pobierz i wydrukuj
-Wydrukuj jeden egzemplarz Pełnomocnitwa i odeślij do Pana/Pani Mecenasa XXXXXXXX wraz z oryginałem świadectwa depozytowego z biura maklerskiego
+> Pobierz i wydrukuj
+> Wydrukuj jeden egzemplarz Pełnomocnitwa i odeślij do Pana/Pani Mecenasa XXXXXXXX wraz z oryginałem świadectwa depozytowego z biura maklerskiego
 
-{{< button_download "http://www.google.com" "Pelnomocnictwo dla XXXX">}}
+> {{< button_download "http://www.google.com" "Pelnomocnictwo dla XXXX">}}
 

@@ -4,7 +4,7 @@ author = "pmercator"
 languageCode = "pl"
 DefaultContentLanguage = "pl"
 enableInlineShortcodes = true
-theme = "tella"
+theme = "tella_updated"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
