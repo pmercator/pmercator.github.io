@@ -12,8 +12,19 @@
 }
 
 body {
-    background-image: url('../img/main_photo.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+@media (max-width: 1024px) {
+    body {
+        background-color: rgb(94, 170, 214);
+    }
+}
+
+@media (min-width: 1025px) {
+    body {
+        background-image: url('../img/main_photo.jpeg');
+    }
 }
