@@ -1,19 +1,30 @@
-/* 
+                /* 
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
-
-.background-grey {
-    background-color: gray;
-}
-
-.background-white {
-    background-color: rgb(255, 255, 255) !important;
-}
-
-body {
-    background-image: url('../img/main_photo.jpeg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+                
+                .background-grey {
+                    background-color: gray;
+                }
+                
+                .background-white {
+                    background-color: rgb(255, 255, 255) !important;
+                }
+                
+                body {
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                }
+                
+                @media (max-width: 1024px) {
+                    body {
+                        background-color: rgb(160, 204, 229);
+                    }
+                }
+                
+                @media (min-width: 1025px) {
+                    body {
+                        background-image: url('../img/main_photo.jpeg');
+                    }
+                }
