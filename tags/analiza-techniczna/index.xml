@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>analiza techniczna on PMercator</title><link>https://pmercator.github.io/tags/analiza-techniczna/</link><description>Recent content in analiza techniczna on PMercator</description><generator>Hugo -- gohugo.io</generator><language>pl</language><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pmercator.github.io/tags/analiza-techniczna/index.xml" rel="self" type="application/rss+xml"/><item><title>Mercator w drodze na ziemię?</title><link>https://pmercator.github.io/blog/magia_wykresow/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>https://pmercator.github.io/blog/magia_wykresow/</guid><description>Od kilku lat na rynku analitycznym zrobiło sie głośno o wizualizacjach ktore wprowadzaja w błąd. Powstały nawet konkursy na najgorsze wizualizacje roku. W tym wpisie chce wam zademonstrować wykres z serwisu stooq zawarty w artykule o tytule &amp;ldquo;Mercator w drodze na ziemię&amp;rdquo;. W mojej ocenie mamy tu do czynienia z nieodpowiedzialnym przekazywaniem informacji innym uczestnikom rynku inwestycyjnego. Zgodnie z dobrą praktyka użycie skali logarytmicznej powinno być jasno zakomunikowane na wykresie.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analiza techniczna on PMercator</title>
+    <link>https://pmercator.github.io/tags/analiza-techniczna/</link>
+    <description>Recent content in analiza techniczna on PMercator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pmercator.github.io/tags/analiza-techniczna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wykresy na skali logarytmicznej</title>
+      <link>https://pmercator.github.io/blog/magia_wykresow/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pmercator.github.io/blog/magia_wykresow/</guid>
+      <description>Od kilku lat na rynku analitycznym zrobiło sie głośno o wizualizacjach ktore wprowadzaja w błąd. Powstały nawet konkursy na najgorsze wizualizacje. W tym wpisie chce wam zademonstrować wykres z serwisu stooq zawarty w artykule o tytule &amp;ldquo;Mercator w drodze na ziemię&amp;rdquo;. W mojej ocenie mamy tu do czynienia z nieodpowiedzialnym przekazywaniem informacji innym uczestnikom rynku inwestycyjnego. Zgodnie z wykresem zawartym w tymże artykule, jeszcze bardzo daleka droga do wspomnanej &amp;ldquo;ziemi&amp;rdquo;. Jest to jednak spowodowane zastosowaniem skali logartymicznej na osi y.</description>
+    </item>
+    
+  </channel>
+</rss>
