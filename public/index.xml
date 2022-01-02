@@ -73,21 +73,12 @@ XXXXXX
     </item>
     
     <item>
-      <title>Wykresy na skali logarytmicznej</title>
-      <link>https://pmercator.github.io/blog/magia_wykresow/</link>
+      <title>Mercator w drodze na ziemię?</title>
+      <link>https://pmercator.github.io/blog/stooq_log_scale/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pmercator.github.io/blog/magia_wykresow/</guid>
-      <description>Od kilku lat na rynku analitycznym zrobiło sie głośno o wizualizacjach ktore wprowadzaja w błąd. Powstały nawet konkursy na najgorsze wizualizacje. W tym wpisie chce wam zademonstrować wykres z serwisu stooq zawarty w artykule o tytule &amp;ldquo;Mercator w drodze na ziemię&amp;rdquo;. W mojej ocenie mamy tu do czynienia z nieodpowiedzialnym przekazywaniem informacji innym uczestnikom rynku inwestycyjnego. Zgodnie z wykresem zawartym w tymże artykule, jeszcze bardzo daleka droga do wspomnanej &amp;ldquo;ziemi&amp;rdquo;. Jest to jednak spowodowane zastosowaniem skali logartymicznej na osi y.</description>
-    </item>
-    
-    <item>
-      <title>NOWOSCI LUB PYTANIE ODPOWIEDZ</title>
-      <link>https://pmercator.github.io/blog/markdown-syntax/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmercator.github.io/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://pmercator.github.io/blog/stooq_log_scale/</guid>
+      <description>Od kilku lat na rynku analitycznym zrobiło sie głośno o wizualizacjach ktore wprowadzaja w błąd. Powstały nawet konkursy na najgorsze wizualizacje roku. W tym wpisie chce wam zademonstrować wykres z serwisu stooq zawarty w artykule o tytule &amp;ldquo;Mercator w drodze na ziemię&amp;rdquo;. W mojej ocenie mamy tu do czynienia z nieodpowiedzialnym przekazywaniem informacji innym uczestnikom rynku inwestycyjnego. Zgodnie z dobrą praktyka użycie skali logarytmicznej powinno być jasno zakomunikowane na wykresie.</description>
     </item>
     
     <item>

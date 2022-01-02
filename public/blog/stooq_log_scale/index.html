@@ -1,1 +1,235 @@
-<!DOCTYPE html><html><head><title>https://pmercator.github.io/blog/magia_wykresow/</title><link rel="canonical" href="https://pmercator.github.io/blog/magia_wykresow/"/><meta name="robots" content="noindex"><meta charset="utf-8" /><meta http-equiv="refresh" content="0; url=https://pmercator.github.io/blog/magia_wykresow/" /></head></html>
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+<meta charset="utf-8">
+<title>PMercator | Mercator w drodze na ziemię?</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="icon" href='/favicon-32x32.png'> 
+<link href='/css/fa5.min.css' rel="stylesheet" type="text/css">    
+<link rel="stylesheet" href="/css/style.min.3e342b8e41b162988d3188059ce38c71fbf5fa5b3a3225869f49e2a185029d91.css" /> 
+<link href='/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/css/custom.css'>
+<meta property="og:title" content="PMercator | Mercator w drodze na ziemię?" /> 
+
+
+
+<meta name="description" content="Od kilku lat na rynku analitycznym zrobiło sie głośno o wizu">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="PMercator">
+<meta property="og:description" content="Od kilku lat na rynku analitycznym zrobiło sie głośno o wizu">
+<meta property="og:url" content="https://pmercator.github.io/blog/stooq_log_scale/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://pmercator.github.io/blog/stooq_log_scale/">
+
+<meta name="twitter:description" content="Od kilku lat na rynku analitycznym zrobiło sie głośno o wizu">
+<meta property="article:published_time" content="2022-01-02T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2022-01-02T00:00:00&#43;00:00">
+
+
+
+
+
+<meta property="og:image" content="https://pmercator.github.io/">
+<meta property="og:image:url" content="https://pmercator.github.io/">
+
+<meta name="twitter:title" content="Mercator w drodze na ziemię?">
+<link rel="preload" href="/%20/css/monokai-sublime.min.css%20" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="/%20/css/sweetalert2.min.css%20" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+</head>
+
+<body class="flex flex-col min-h-screen">
+    <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/products/">
+                    <span>Dołącz</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/about/">
+                    <span>O Nas</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>Kontakt</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-gray-800 bg-opacity-100 text-white p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-white mr-6">
+            <a href="https://pmercator.github.io/"><img alt="Porozumienie Mercator" class="h-14 mr-3" src="/img/logo/logo.svg"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top background-white"></span>
+                <span class="middle background-white"></span>
+                <span class="bottom background-white"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg text-white">
+                
+                <a href="/products/" class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-white hover:opacity-60 mr-8">
+                    Dołącz
+                </a> 
+                <a href="/blog/" class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-white hover:opacity-60 mr-8">
+                    Blog
+                </a> 
+                <a href="/about/" class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-white hover:opacity-60 mr-8">
+                    O Nas
+                </a> 
+                <a href="/contact/" class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-white hover:opacity-60 mr-8">
+                    Kontakt
+                </a> 
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+            <span class="icon-keyboard_arrow_up text-2xl"></span>
+        </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl text-white">Mercator w drodze na ziemię?</h1>
+        <section class="mb-4">
+            <hr class="my-2">
+            <h4 id="date"><span class="icon-access_time text-xl mr-2"></span>2022/01/02 </h4>
+            
+            <h4><span class="icon-person text-xl mt-1 mr-2"></span>Maciej Nasinski</h4>
+             
+            <div id="categories">
+                <span class="icon-folder text-xl"></span> 
+                <span class="inline-flex py-1 leading-4 content-center justify-center px-1 hover:text-black"><a
+                        href="https://pmercator.github.io/categories/analizy-rynkowe">analizy rynkowe</a></span> 
+            </div>
+            
+            <hr class="my-2">
+        </section>
+        
+        <div class="content py-1"><blockquote>
+<p>Od kilku lat na rynku analitycznym zrobiło sie głośno o wizualizacjach ktore wprowadzaja w błąd.
+Powstały nawet konkursy na najgorsze wizualizacje roku.
+W tym wpisie chce wam zademonstrować wykres z serwisu stooq zawarty w artykule o tytule <a href="https://stooq.pl/mol/?id=23558&amp;search=mercator">&ldquo;Mercator w drodze na ziemię&rdquo;</a>.
+W mojej ocenie mamy tu do czynienia z nieodpowiedzialnym przekazywaniem informacji innym uczestnikom rynku inwestycyjnego. Zgodnie z <a href="https://en.wikipedia.org/wiki/Misleading_graph">dobrą praktyka użycie</a> skali logarytmicznej powinno być jasno zakomunikowane na wykresie. Na wykresie zawartym w tymże artykule, relatywnie jeszcze bardzo daleka droga do wspomnanej &ldquo;ziemi&rdquo;. Jest to spowodowane zastosowaniem właśnie skali logartymicznej na osi y. Wspomniany wykres to notowania społki Mercator z ostatnich 2 lat.
+Zaprezentowane niżej wykresy są identyczne poza skalą na osi y, liniowa vs logarytmiczna.
+Szczególnie zwrócie uwagę na odstępy między wartosciami na osi y.</p>
+</blockquote>
+<blockquote>
+<p>Wykres na skali liniowej:</p>
+</blockquote>
+<p><img src="/img/stooq_log2.png" alt="skala liniowa"></p>
+<blockquote>
+<p>Wykres na skali logarytmicznej:</p>
+</blockquote>
+<p><img src="/img/stooq_log.png" alt="skala logarytmiczna"></p>
+<blockquote>
+<p>Łatwo zauważyć jak bardzo różnią się od siebie te 2 wizualizacje. Warto wspomniec ze skala logarytmiczna jest używana na szeregach czasowych w których wielokrotnie wystąpił eksponencjalny trend, np. kurs Bitcoin-a. Dzieki temu można dostrzec jakąkolwiek zmienność z lat poprzednich. Dodatkowo użycie skali logarytmicznej powinno być jasno komunikowane.
+Jednak moim zdaniem stanowczo nie powinna być ona wykorzystywana w celu ukazania potencjału dalszych spadków.
+Polecam przemyśleć tą kwestie i w przyszłości zwrócić na nią uwagę.</p>
+</blockquote>
+</div>
+        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fpmercator.github.io%2fblog%2fstooq_log_scale%2f&text=Mercator%20w%20drodze%20na%20ziemi%c4%99%3f" target="_blank" title="Tweet" class="share-button twitter">
+                <div class="text-white text-center">
+                    <span class="icon-twitter text-lg mr-2"></span>Twitter
+                </div>
+            </a>
+            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard" data-clipboard-text="Mercator w drodze na ziemię? https://pmercator.github.io/blog/stooq_log_scale/" id="url">
+                <div class="text-white text-center">
+                    <span class="icon-link text-lg mr-2"></span>Copy
+                </div>
+            </a>
+        </div>
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                </div>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+    </main><footer class="bg-tlgray-100">
+    
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/highlight.min.js"></script>
+    <script src="/js/highlightjs-line-numbers.min.js"></script>
+    <script src="/js/sweetalert2.min.js"></script>
+    <script>
+        hljs.initHighlightingOnLoad();
+        hljs.initLineNumbersOnLoad();
+        new ClipboardJS('.url');
+
+        function OnClickURL() {
+            Swal.fire({
+                icon: 'success',
+                title: 'Copied!',
+                text: 'Copied the URL and title.'
+            })
+        }
+    </script>
+    
+    <script>
+        function toggleNav() {
+            var hamburger = document.getElementById("hamburgerbtn");
+            var overlay = document.getElementById("overlay");
+            var body = document.body;
+    
+            hamburger.addEventListener("click", function () {
+                overlay.classList.toggle("open");
+                hamburger.classList.toggle("is-open");
+                body.classList.toggle("scroll-lock");
+            });
+        }
+        toggleNav();
+    
+        document.querySelector('.scroll-top').addEventListener('click', () => {
+            document.documentElement.scrollTop = 0;
+        });
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet">
+    <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+        <div class="items-center text-xl text-grey-900 mr-6">
+            Porozumienie Mercator
+        </div>
+        <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+                    Home
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+        &copy; PMercator 2022 All Rights Reserved.
+    </div>
+</footer></body>
+
+</html>
