@@ -28,6 +28,6 @@ aliases = ["stooq_log_scale"]
 
 ![skala logarytmiczna](/img/stooq_log.png)
 
-> Łatwo zauważyć jak bardzo różnią się od siebie te 2 wizualizacje. Warto wspomniec ze skala logarytmiczna jest używana na szeregach czasowych w których wielokrotnie wystąpił ekspotencjalny trendy, np. kurs Bitcoin-a. Dzieki temu można dostrzec jakąkolwiek zmienność z lat poprzendich. Dodatkowo użycie skali logarytmicznej powinno być jasno komunikowane.
+> Łatwo zauważyć jak bardzo różnią się od siebie te 2 wizualizacje. Warto wspomniec ze skala logarytmiczna jest używana na szeregach czasowych w których wielokrotnie wystąpił eksponencjalny trendy, np. kurs Bitcoin-a. Dzieki temu można dostrzec jakąkolwiek zmienność z lat poprzendich. Dodatkowo użycie skali logarytmicznej powinno być jasno komunikowane.
 > Jednak moim zdaniem stanowczo nie powinna być ona wykorzystywana w celu ukazania potencjału dalszych spadków.
 > Polecam przemyśleć tą kwestie i w przyszłości zwrócić na nią uwagę.
