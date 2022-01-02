@@ -31,7 +31,7 @@ aliases = ["stooq_log_scale"]
 > Łatwo zauważyć jak bardzo różnią się od siebie te 2 wizualizacje. 
 > Warto wspomniec ze skala logarytmiczna jest używana na szeregach czasowych np. kiedy wielokrotnie wystąpił eksponencjalny trend (e.g. kurs Bitcoin-a). Dzięki temu można dostrzec jakąkolwiek zmienność z lat poprzednich. 
 > W tym przypadku skala logarytmiczna pozwala dojrzeć zakres procentowy potencjalnych wzrostow i spadkow, czytaj okolo x7 mamy do historycznego szczytu ale tez mozemy skonczyc na wartościach rzędu 10zł (x0.1 od aktualnej ceny). Wynika z tego że w zakresie wyników historycznych jest proporcojalnie dalej do dołka niż szczytu. Jednak kiedy spojrzymy na to kwotowo, zmieni nam sie obraz sytuacji.
-> Przykład jezeli dziś zainwestuje 100tys po cenie 100zł i cena skoczy na 700zl to zarobie 600tys zł z drugiej strony przy spadku na 10zł stracimy 90tys zł.
+> Przykład, jeżeli dziś zainwestuje 100tys po cenie 100zł i cena skoczy na 700zl to zarobie 600tys zł z drugiej strony przy spadku na 10zł stracimy 90tys zł.
 >
 > Z drugiej strony całkowicie zostało zniekształcone nachylenie linii trendu wskazując że może on się skonczyć relatywnie znacznie później w przypadku skali logarytmicznej.
 >
