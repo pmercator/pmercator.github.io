@@ -1,5 +1,5 @@
 +++
-author = "Maciej Nasinski"
+author = ""
 title = "Mercator w drodze na ziemię?"
 date = "2022-01-02"
 description = ""
